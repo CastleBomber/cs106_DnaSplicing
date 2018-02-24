@@ -2,7 +2,7 @@
 // Name        : RCastillo_DnaSplicing_F17
 // Author      : [CastleBombs + Strenn]
 // Date        : (FRI, 27 OCT 17)
-// Class	   	   : cs 106, JavA Theory && Practice II 
+// Class       : cs 106, JavA Theory && Practice II 
 // Instructor  : Professor Stephen Strenn
 //============================================================================
 
